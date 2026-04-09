@@ -1,0 +1,6 @@
+UserID: 8027583669 | Time: 2026-04-09 13:46:37.208754 | Command: /bgmi | Target: 16.170.205.250 | Port: 41417 | Time: 80
+Username: @Shubh97j
+Target: 16.170.205.250
+Port: 41417
+Time: 80
+
